@@ -184,6 +184,90 @@
 					<key>Replace</key>
 					<data>WFNUUAg=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:GACW</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>R0FDVwA=</data>
+					<key>Replace</key>
+					<data>WEFDVwA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:GBAW</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>R0JBVwA=</data>
+					<key>Replace</key>
+					<data>WEJBVwA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:BTIF</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>QlRJRgk=</data>
+					<key>Replace</key>
+					<data>WFRJRgk=</data>
+					<key>TgtBridge</key>
+					<data>RUMwXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:BTST</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>QlRTVAo=</data>
+					<key>Replace</key>
+					<data>WFRTVAo=</data>
+					<key>TgtBridge</key>
+					<data>RUMwXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:ITLB</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>SVRMQgA=</data>
+					<key>Replace</key>
+					<data>WFRMQgA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:GBTI</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>R0JUSQE=</data>
+					<key>Replace</key>
+					<data>WEJUSQE=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:GBTC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>R0JUQwA=</data>
+					<key>Replace</key>
+					<data>WEJUQwA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>EC0:SBTC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>U0JUQwM=</data>
+					<key>Replace</key>
+					<data>WkJUQwM=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
@@ -420,7 +504,7 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleIntelCPUPM</key>
-		<true/>
+		<false/>
 		<key>AppleRTC</key>
 		<true/>
 		<key>DellSMBIOSPatch</key>
@@ -577,6 +661,34 @@
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
 				<data>g/s/Dw==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Prevent Apple I2C kexts from attaching to I2C controllers, credit CoolStar</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>SU9LaXQ=</data>
+				<key>InfoPlistPatch</key>
+				<true/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelLpssI2C</string>
+				<key>Replace</key>
+				<data>SU9LaXM=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Prevent Apple I2C kexts from attaching to I2C controllers, credit CoolStar</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>SU9LaXQ=</data>
+				<key>InfoPlistPatch</key>
+				<true/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelLpssI2CController</string>
+				<key>Replace</key>
+				<data>SU9LaXM=</data>
 			</dict>
 		</array>
 	</dict>
