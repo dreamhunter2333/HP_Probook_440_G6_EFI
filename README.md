@@ -11,7 +11,7 @@
 
 [English](README_EN.md) | [中文](README.md)
 
-这是我使用的 炫龙 耀7000 的CLOVER引导文件
+这是我使用的 HP_Probook_440_G6 的CLOVER引导文件
 
 ### 定制usb
 
