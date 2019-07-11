@@ -44,7 +44,6 @@
 
 * 支持Mojave
 * CPU原生支持，变频正常(最低800Mhz) 调整性能教程在后方
-* 睡眠唤醒(键盘电源键唤醒)正常
 * 显卡仿冒UHD630，采用`Lilu+WhateverGreen`通过`Clover/device/Properties`方式注入
 * 声卡为ALC236，使用 `AppleALC` ，layout-id:11，通过`Clover/device/Properties`方式注入
 * 显示器亮度调节正常(重启可保存) 
