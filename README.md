@@ -31,7 +31,7 @@
 | 内存     | 16 GB ( 海力士 DDR4 2666MHz )                           |
 | 硬盘     | 海力士 (256 GB / NVME固态硬盘 )                       |
 | 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x3E9B0000)       |
-| 显示器   | LG  1920x1080 (14 英寸)                      |
+| 显示器   |  LG  1920x1080 (14 英寸)                      |
 | 声卡     | ALC269 (layout-id:11)                                 |
 | 网卡     | intel 9560AC CNVi                     |
 
@@ -50,8 +50,8 @@
 * USB请自行采用`Hackintool`定制（教程在后方）
 * 其它 `ACPI` 补丁修复采用 `hotpatch` 方式，文件位于 `/CLOVER/ACPI/patched`
 * 电池hotpatch补丁显示电池状态正常
-* 触摸板暂时为单双指
-* 独显mx130 无法驱动 hdmi输出 dp未测试
+* 触摸板使用VoodooI2C可用五指
+* 独显mx130 无法驱动 hdmi输出可用 typec-dp未测试
 
 ### 定制 usb
 
