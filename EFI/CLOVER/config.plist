@@ -92,7 +92,7 @@
 				<key>#Comment-IRQ Fix</key>
 				<string>The following fixes may be needed for onboard audio/USB/etc</string>
 				<key>AddPNLF</key>
-				<false/>
+				<true/>
 				<key>FixHPET</key>
 				<false/>
 				<key>FixIPIC</key>
@@ -354,20 +354,6 @@
 					oAqRCv8L//8=
 					</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>_Q05 to XQ05</string>
-					<key>Disabled</key>
-					<true/>
-					<key>Find</key>
-					<data>
-					X1EwNQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					WFEwNQ==
-					</data>
-				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
@@ -397,7 +383,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v applbkl=1</string>
+		<string>-v applbkl=0</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -496,7 +482,7 @@
 				<string>onboard-1</string>
 				<key>layout-id</key>
 				<data>
-				CwAAAA==
+				AwAAAA==
 				</data>
 				<key>model</key>
 				<string>Cannon Point-LP High Definition Audio Controller</string>
