@@ -26,19 +26,19 @@
 | 规格     | 详细信息                                                |
 | -------- | ----------------------------------------------------- |
 | 电脑型号 | HP Probook 440G6 笔记本电脑                                    |
-| 操作系统 | macOS Mojave 18D42                                   |
+| 操作系统 | macOS Mojave 18G84                                   |
 | 处理器   | 英特尔 Core i7-8565U @ 1.9GHz 八核                   |
 | 内存     | 16 GB ( 海力士 DDR4 2666MHz )                           |
 | 硬盘     | 海力士 (256 GB / NVME固态硬盘 )                       |
 | 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x3E9B0000)       |
-| 显示器   |  LG  1920x1080 (14 英寸)                      |
+| 显示器   |  LGD  1920x1080 (14 英寸)                      |
 | 声卡     | ALC269 (layout-id:11)                                 |
-| 网卡     | intel 9560AC CNVi                     |
+| 网卡     | Intel 9560NGW CNVi(已更换DW1560)                     |
 
 ### 安装镜像
 
 **将镜像中efi替换为本仓库的EFI文件夹**
-直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】macOS Mojave 10.14.3 18D42 正式版 with Clover 4859原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html)
+直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】Mojave 10.14.6 with Clover5027 ](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html)
 
 ### CLOVER
 
@@ -76,3 +76,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master
  **感谢 @[冰水加劲Q](https://github.com/xzhih)**
 
 ### 内置网卡无解
+
+可以更换DW1560
