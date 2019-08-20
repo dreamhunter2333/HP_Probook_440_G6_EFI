@@ -9,8 +9,6 @@
 
 ## HP Probook 440 G6 EFI for macOS Mojave
 
-[English](README_EN.md) | [中文](README.md)
-
 这是我使用的 HP_Probook_440_G6 的CLOVER引导文件
 
 ### 定制usb
