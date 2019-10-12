@@ -7,7 +7,7 @@
 ![img](https://img.shields.io/github/last-commit/jinmu333/HP_Probook_440_G6_EFI.svg?color=blue&style=for-the-badge)](https://github.com/jinmu333/HP_Probook_440_G6_EFI)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
-## HP Probook 440 G6 EFI for macOS Mojave
+## HP Probook 440 G6 EFI for macOS Catalina
 
 这是我使用的 HP_Probook_440_G6 的CLOVER引导文件
 
@@ -24,7 +24,7 @@
 | 规格     | 详细信息                                                |
 | -------- | ----------------------------------------------------- |
 | 电脑型号 | HP Probook 440G6 笔记本电脑                                    |
-| 操作系统 | macOS Mojave 18G84                                   |
+| 操作系统 | macOS Catalina 19A583                                   |
 | 处理器   | 英特尔 Core i7-8565U @ 1.9GHz 八核                   |
 | 内存     | 16 GB ( 海力士 DDR4 2666MHz )                           |
 | 硬盘     | 海力士 (256 GB / NVME固态硬盘 )                       |
