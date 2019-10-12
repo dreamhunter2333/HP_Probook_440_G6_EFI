@@ -36,7 +36,7 @@
 ### 安装镜像
 
 **将镜像中efi替换为本仓库的EFI文件夹**
-直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】Mojave 10.14.6 with Clover5027 ](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html)
+直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096 ](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
 
 ### CLOVER
 
