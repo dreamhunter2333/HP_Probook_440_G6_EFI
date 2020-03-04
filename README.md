@@ -10,6 +10,7 @@
 ## HP Probook 440 G6 EFI for macOS Catalina
 
 ## HP Probook 440 G6 EFI for macOS Mojave
+https://github.com/jakkapong1129/HP_Probook_440_G6_EFI/tree/10.14
 
 
 ### Devices
