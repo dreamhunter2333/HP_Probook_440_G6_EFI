@@ -1,6 +1,6 @@
 # HP_Probook_440_G6_EFI
 
-## HP Probook 440 G6 EFI 黑苹果 HACKINTOSH
+## HP Probook 440 G6 EFI HACKINTOSH
 
 [![img](https://img.shields.io/github/stars/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
 ![img](https://img.shields.io/github/forks/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
