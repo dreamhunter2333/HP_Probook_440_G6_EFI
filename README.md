@@ -1,6 +1,6 @@
 # HP_Probook_440_G6_EFI
 
-## HP Probook 440 G6 EFI 黑苹果 HACKINTOSH
+## HP Probook 440 G6 EFI HACKINTOSH
 
 [![img](https://img.shields.io/github/stars/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
 ![img](https://img.shields.io/github/forks/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
@@ -8,71 +8,23 @@
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
 ## HP Probook 440 G6 EFI for macOS Catalina
+https://github.com/jakkapong1129/HP_Probook_440_G6_EFI/tree/10.15
 
-这是我使用的 HP_Probook_440_G6 的CLOVER引导文件
+## HP Probook 440 G6 EFI for macOS Mojave
+https://github.com/jakkapong1129/HP_Probook_440_G6_EFI/tree/10.14
 
-### 定制usb
+### Devices
 
-[定制usb教程](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
-
-### 调整 macOS CPU性能
-
-[使用方法](https://github.com/daliansky/XiaoMi-Pro/blob/master/one-key-cpufriend/README_CN.md)
-
-### 电脑配置
-
-| 规格     | 详细信息                                                |
+| Specification     | Detail                                            |
 | -------- | ----------------------------------------------------- |
-| 电脑型号 | HP Probook 440G6 笔记本电脑                                    |
-| 操作系统 | macOS Catalina 19A583                                   |
-| 处理器   | 英特尔 Core i7-8565U @ 1.9GHz 八核                   |
-| 内存     | 16 GB ( 海力士 DDR4 2666MHz )                           |
-| 硬盘     | 海力士 (256 GB / NVME固态硬盘 )                       |
-| 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x3E9B0000)       |
-| 显示器   |  LGD  1920x1080 (14 英寸)                      |
-| 声卡     | ALC269 (layout-id:11)                                 |
-| 网卡     | Intel 9560NGW CNVi(已更换DW1560)                     |
+| Model | HP Probook 440G6 Laptop                                    |
+| OS | macOS Catalina 19D76                                   |
+| Processor   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
+| Memory     | 16 GB ( Hynix DDR4 2666MHz )                           |
+| Hard disk     | 250 GB SSD WD BLACK GEN3 PCIe/NVMe M.2 2280 (WDS250G2X0C)                    |
+| Graphic card     | Intel UHD Graphics 620 (platform-id:0x‭3861980‬)       |
+| Monitor   |  LGD  1920x1080 (14 inch)                      |
+| Audio adapter     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
+| Network card     | Intel 9560NGW CNVi(replaced DW1560)                     |
 
-### 安装镜像
 
-**将镜像中efi替换为本仓库的EFI文件夹**
-直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096 ](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
-
-### CLOVER
-
-* 支持Mojave
-* CPU原生支持，变频正常(最低800Mhz) 调整性能教程在后方
-* 显卡仿冒UHD630，采用`Lilu+WhateverGreen`通过`Clover/device/Properties`方式注入
-* 声卡为ALC236，使用 `AppleALC` ，layout-id:11，通过`Clover/device/Properties`方式注入
-* 显示器亮度调节正常(重启可保存) 
-* USB请自行采用`Hackintool`定制（教程在后方）
-* 其它 `ACPI` 补丁修复采用 `hotpatch` 方式，文件位于 `/CLOVER/ACPI/patched`
-* 电池hotpatch补丁显示电池状态正常
-* 触摸板使用VoodooI2C可用五指
-* 独显mx130 无法驱动 hdmi输出可用 typec-dp未测试
-
-### 定制 usb
-
-[定制usb教程](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
-
-### 调整macOS CPU性能
-
-[使用方法](https://github.com/daliansky/XiaoMi-Pro/blob/master/one-key-cpufriend/README_CN.md)
-
-``` bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/daliansky/XiaoMi-Pro/master/one-key-cpufriend/one-key-cpufriend_cn.sh)"
-```
-
-### HIDPI
-
-[开启方法](https://github.com/xzhih/one-key-hidpi)
-
-``` bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
-```
-
- **感谢 @[冰水加劲Q](https://github.com/xzhih)**
-
-### 内置网卡无解
-
-可以更换DW1560
