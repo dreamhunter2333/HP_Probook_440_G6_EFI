@@ -8,9 +8,10 @@
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
 ## HP Probook 440 G6 EFI for macOS Catalina
+https://github.com/jakkapong1129/HP_Probook_440_G6_EFI/tree/10.15
 
 ## HP Probook 440 G6 EFI for macOS Mojave
-
+https://github.com/jakkapong1129/HP_Probook_440_G6_EFI/tree/10.14
 
 ### Devices
 
