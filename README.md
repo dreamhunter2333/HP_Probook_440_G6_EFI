@@ -1,5 +1,7 @@
 # HP_Probook_440_G6_EFI
 
+# Donate https://paypal.me/JakkapongW?locale.x=th_TH
+
 ## HP Probook 440 G6 EFI HACKINTOSH
 
 [![img](https://img.shields.io/github/stars/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
