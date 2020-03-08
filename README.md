@@ -10,6 +10,7 @@
 ## HP Probook 440 G6 EFI for macOS Catalina
 
 这是我使用的 HP_Probook_440_G6 的CLOVER引导文件
+睡眠唤醒时 voodooI2CGPIO panic  请禁用睡眠或者移除触摸板驱动
 
 ### 定制usb
 

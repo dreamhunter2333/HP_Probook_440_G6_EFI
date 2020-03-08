@@ -110,9 +110,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X09TSQ==</data>
+					<data>
+					X09TSQ==
+					</data>
 					<key>Replace</key>
-					<data>WE9TSQ==</data>
+					<data>
+					WE9TSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -120,9 +124,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>R0ZYMA==</data>
+					<data>
+					R0ZYMA==
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQ==</data>
+					<data>
+					SUdQVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -130,9 +138,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>SEVDSQ==</data>
+					<data>
+					SEVDSQ==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -140,9 +152,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>SERBUw==</data>
+					<data>
+					SERBUw==
+					</data>
 					<key>Replace</key>
-					<data>SERFRg==</data>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -150,9 +166,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>U0FUMA==</data>
+					<data>
+					U0FUMA==
+					</data>
 					<key>Replace</key>
-					<data>U0FUQQ==</data>
+					<data>
+					U0FUQQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -160,9 +180,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>VVNUUAg=</data>
+					<data>
+					VVNUUAg=
+					</data>
 					<key>Replace</key>
-					<data>WFNUUAg=</data>
+					<data>
+					WFNUUAg=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -170,9 +194,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0FDVwA=</data>
+					<data>
+					R0FDVwA=
+					</data>
 					<key>Replace</key>
-					<data>WEFDVwA=</data>
+					<data>
+					WEFDVwA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -180,9 +208,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JBVwA=</data>
+					<data>
+					R0JBVwA=
+					</data>
 					<key>Replace</key>
-					<data>WEJBVwA=</data>
+					<data>
+					WEJBVwA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -190,11 +222,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>QlRJRgk=</data>
+					<data>
+					QlRJRgk=
+					</data>
 					<key>Replace</key>
-					<data>WFRJRgk=</data>
+					<data>
+					WFRJRgk=
+					</data>
 					<key>TgtBridge</key>
-					<data>RUMwXw==</data>
+					<data>
+					RUMwXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -202,11 +240,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>QlRTVAo=</data>
+					<data>
+					QlRTVAo=
+					</data>
 					<key>Replace</key>
-					<data>WFRTVAo=</data>
+					<data>
+					WFRTVAo=
+					</data>
 					<key>TgtBridge</key>
-					<data>RUMwXw==</data>
+					<data>
+					RUMwXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -214,9 +258,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SVRMQgA=</data>
+					<data>
+					SVRMQgA=
+					</data>
 					<key>Replace</key>
-					<data>WFRMQgA=</data>
+					<data>
+					WFRMQgA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -224,9 +272,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JUSQE=</data>
+					<data>
+					R0JUSQE=
+					</data>
 					<key>Replace</key>
-					<data>WEJUSQE=</data>
+					<data>
+					WEJUSQE=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -234,9 +286,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JUQwA=</data>
+					<data>
+					R0JUQwA=
+					</data>
 					<key>Replace</key>
-					<data>WEJUQwA=</data>
+					<data>
+					WEJUQwA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -244,9 +300,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>U0JUQwM=</data>
+					<data>
+					U0JUQwM=
+					</data>
 					<key>Replace</key>
-					<data>WkJUQwM=</data>
+					<data>
+					WkJUQwM=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -254,11 +314,17 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>X1NUQQ==</data>
+					<data>
+					X1NUQQ==
+					</data>
 					<key>Replace</key>
-					<data>WFNUQQ==</data>
+					<data>
+					WFNUQQ==
+					</data>
 					<key>TgtBridge</key>
-					<data>SFBFVA==</data>
+					<data>
+					SFBFVA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -266,9 +332,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R1BSVwI=</data>
+					<data>
+					R1BSVwI=
+					</data>
 					<key>Replace</key>
-					<data>WFBSVwI=</data>
+					<data>
+					WFBSVwI=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -276,9 +346,13 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>oAqTU1RBUwE=</data>
+					<data>
+					oAqTU1RBUwE=
+					</data>
 					<key>Replace</key>
-					<data>oAqRCv8L//8=</data>
+					<data>
+					oAqRCv8L//8=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -286,11 +360,17 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>X0lOSQ==</data>
+					<data>
+					X0lOSQ==
+					</data>
 					<key>Replace</key>
-					<data>WElOSQ==</data>
+					<data>
+					WElOSQ==
+					</data>
 					<key>TgtBridge</key>
-					<data>VFBEMA==</data>
+					<data>
+					VFBEMA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -298,11 +378,17 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>X0NSUw==</data>
+					<data>
+					X0NSUw==
+					</data>
 					<key>Replace</key>
-					<data>WENSUw==</data>
+					<data>
+					WENSUw==
+					</data>
 					<key>TgtBridge</key>
-					<data>VFBEMA==</data>
+					<data>
+					VFBEMA==
+					</data>
 				</dict>
 			</array>
 		</dict>
@@ -368,7 +454,9 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>b25ib2FyZC0xAA==</data>
+				<data>
+				b25ib2FyZC0xAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -378,7 +466,9 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>b25ib2FyZC0xAA==</data>
+				<data>
+				b25ib2FyZC0xAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -388,7 +478,9 @@
 				<key>Key</key>
 				<string>layout-id</string>
 				<key>Value</key>
-				<data>AwAAAA==</data>
+				<data>
+				AwAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Device</key>
@@ -396,7 +488,8 @@
 				<key>Key</key>
 				<string>PinConfigurations</string>
 				<key>Value</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 		</array>
 		<key>Audio</key>
@@ -416,50 +509,86 @@
 				<key>AAPL,slot-name</key>
 				<string>Internal</string>
 				<key>device-id</key>
-				<data>cKEAAA==</data>
+				<data>
+				cKEAAA==
+				</data>
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>AwAAAA==</data>
+				<data>
+				AwAAAA==
+				</data>
 				<key>model</key>
 				<string>Cannon Point-LP High Definition Audio Controller</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>
+				AACbPg==
+				</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>
+				mz4AAA==
+				</data>
 				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con1-busid</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con2-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
+				<data>
+				AAAAgA==
+				</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
@@ -573,11 +702,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRC</data>
+				<data>
+				igKEwHRC
+				</data>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Replace</key>
-				<data>igKEwOtC</data>
+				<data>
+				igKEwOtC
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -585,9 +718,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>ILniAAAADzA=</data>
+				<data>
+				ILniAAAADzA=
+				</data>
 				<key>Replace</key>
-				<data>ILniAAAAkJA=</data>
+				<data>
+				ILniAAAAkJA=
+				</data>
 			</dict>
 		</array>
 		<key>KextsToPatch</key>
@@ -598,13 +735,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>IOBufferCopyController</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -612,13 +753,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelLpssI2C</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -626,13 +771,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelLpssI2CController</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -640,7 +789,9 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>g/sPD4MDBQAA</data>
+				<data>
+				g/sPD4MDBQAA
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -648,7 +799,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/sPkJCQkJCQ</data>
+				<data>
+				g/sPkJCQkJCQ
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -656,7 +809,9 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>g/sPDw==</data>
+				<data>
+				g/sPDw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -664,7 +819,9 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>g/s/Dw==</data>
+				<data>
+				g/s/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -672,7 +829,9 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>g/sPDw==</data>
+				<data>
+				g/sPDw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -680,7 +839,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/s/Dw==</data>
+				<data>
+				g/s/Dw==
+				</data>
 			</dict>
 		</array>
 	</dict>
