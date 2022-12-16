@@ -2,9 +2,9 @@
 
 ## HP Probook 440 G6 EFI 黑苹果 HACKINTOSH
 
-[![img](https://img.shields.io/github/stars/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/forks/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/last-commit/jinmu333/HP_Probook_440_G6_EFI.svg?color=blue&style=for-the-badge)](https://github.com/jinmu333/HP_Probook_440_G6_EFI)
+[![img](https://img.shields.io/github/stars/dreamhunter2333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
+![img](https://img.shields.io/github/forks/dreamhunter2333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
+![img](https://img.shields.io/github/last-commit/dreamhunter2333/HP_Probook_440_G6_EFI.svg?color=blue&style=for-the-badge)](https://github.com/dreamhunter2333/HP_Probook_440_G6_EFI)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
 ## HP Probook 440 G6 EFI for macOS Catalina
